@@ -1,0 +1,12 @@
+[2025-07-14T07:03:38.169Z] POST /shorturls/shorten from ::ffff:127.0.0.1
+[2025-07-14T07:04:21.255Z] POST /shorturls/shorten from ::ffff:127.0.0.1
+[2025-07-14T07:05:09.243Z] GET /shorturls/shorten from ::1
+[2025-07-14T07:05:09.445Z] GET /favicon.ico from ::1
+[2025-07-14T07:07:04.205Z] POST /shorturls/shorten from ::ffff:127.0.0.1
+[2025-07-14T07:07:12.643Z] POST /shorturls/shorten from ::ffff:127.0.0.1
+[2025-07-14T07:11:35.433Z] GET /shorturls/custom123 from ::ffff:127.0.0.1
+[2025-07-14T07:14:25.824Z] GET /shorturls/openai2025 from ::ffff:127.0.0.1
+[2025-07-14T07:15:37.456Z] GET /shorturls/openai2025 from ::1
+[2025-07-14T07:16:42.404Z] GET /shorturls/analytics/openai2025 from ::ffff:127.0.0.1
+[2025-07-14T07:19:01.353Z] GET /shorturls/analytics/openai2025 from ::ffff:127.0.0.1
+[2025-07-14T07:19:34.058Z] GET /shorturls/openai2025 from ::1
